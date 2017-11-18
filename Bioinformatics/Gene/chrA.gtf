@@ -1,0 +1,4 @@
+chrA	simulated	exon	51	55	0.00000	+	.	gene_id "GI1763.1"; transcript_id "GI1763.1";
+chrA	simulated	exon	16	20	0.00000	+	.	gene_id "BK1680.0"; transcript_id "BK1680.0";
+chrA	simulated	exon	31	35	0.00000	+	.	gene_id "BK1680.0"; transcript_id "BK1680.0";
+chrA	simulated	exon	66	70	0.00000	+	.	gene_id "GI1763.1"; transcript_id "GI1763.1";
